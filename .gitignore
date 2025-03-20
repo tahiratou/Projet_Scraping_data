@@ -1,0 +1,15 @@
+# Ignorer l'environnement virtuel
+env/
+
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Ignorer les fichiers de configuration locaux
+*.env
+*.ini
+
+# Ignorer les fichiers de données temporaires
+*.csv
+*.xlsx
+*.db
